@@ -4,7 +4,7 @@
 
 The first project of Deep Reinforcement Learning ND - Udacity. The target is build a model that enables an agent to navigate and collect at least 13 yellow bananas in a row of 100 episodes, in a large & square world.  
 
-![](pics/BananaGIF_20200707113405_slvd_15.gif)
+![](./images/Banana.gif)
 
 Environment:  
 Enviroment is a large & square world that contains yellow & blue bananas, any banana collected from agent will be added accordingly.  

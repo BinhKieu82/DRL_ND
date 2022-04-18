@@ -77,15 +77,13 @@ More Agents are addes giving more interaction/noise to each other. Each is defin
 ##### Training
 Reset your kernel first.
 
-If you wish you can adapt the requirement when the environment is considered as solved in section four: `CRIT_SOLVED = 13 #How many Bananas must be collected to succeed?`
-
 Execute the code in sections
 
 * 1. Start the Environment
 * 2. Define the State and Action Spaces
 * 3. Train the agent with DDPG
 
-The output file will be generated in the current directory with a current time stamp as prefix of the `navigation.pth`.
+The output files will be generated in the *save_models* directory for both two networks: `checkpoint_actor_20agents.pth` and `checkpoint_critic_20agents.pth`.
 
 ##### Testing
 Execute the code in sections
