@@ -4,10 +4,8 @@
 *Reacher_1Agent_Windows_x86_64
 *Reacher_20Agents_Windows_x86_64
 *Tennis_Windows_x86_64
-*Navigation.ipynb
-*checkpoint_actor.pth
-*checkpoint_critic.pth
 *.log
 *.dll
 *.exe
 *__pycache__
+custom_env.py
